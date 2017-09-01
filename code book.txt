@@ -1,1 +1,13 @@
+Variables and data:
 
+1. "X_train", "y_train", "X_test", "y_test", "features", "activities", "subject_train" and "subject_test" contain the data from the downloaded files.
+
+2. "test_df" and "train_df" are the merged datasets for test and train data respectively.  They both were merged to the "all_df" dataset. 
+
+3. The next step is the replacement of the activity column using descriptive activity names in the "activities" data. The result is stored in the "all_df2" dataframe.
+
+4. The column names were edited:
+- abbreviations in the column names were expanded
+- strange characters in the column names and typos were removed
+
+5. In the end "tidy_dataset" contains the relevant averages which will be later stored in a .txt file. 

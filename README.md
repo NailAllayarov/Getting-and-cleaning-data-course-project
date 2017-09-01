@@ -23,7 +23,7 @@ New dataset with all the average measures for each subject and activity type is 
 
 # Other files
 
-***CodeBook.md*** contains description of the variables and transformations that were used to manipulate the data.
+***code book.md*** contains description of the variables and transformations that were used to manipulate the data.
 
 ***tidy_data.txt*** contains the tidy data set which was created in the final step of the R-Script.
 

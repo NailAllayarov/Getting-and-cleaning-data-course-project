@@ -17,7 +17,7 @@ Match the data in the column activity, which are the integers 1:6 with the descr
 The special characters and the abbreviations were edited in this step. 
 
 5 Step. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject:
-New dataset with all the average measures for each subject and activity type is saved in the file "averages_data.txt".
+New dataset with all the average measures for each subject and activity type is saved in the file "tidy_data.txt".
 
 
 

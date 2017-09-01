@@ -14,7 +14,7 @@ Using the regular expressions we chose the columns with the mean and standard de
 Match the data in the column activity, which are the integers 1:6 with the descriptive name from the activity_labels.txt file.
 
 4 Step. Appropriately labels the data set with descriptive variable names:
-The special characters and the abbreviations were edit in this step. 
+The special characters and the abbreviations were edited in this step. 
 
 5 Step. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject:
 New dataset with all the average measures for each subject and activity type is saved in the file "averages_data.txt".
